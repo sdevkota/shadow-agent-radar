@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/shadow-agent-radar.git"
+    "url": "https://github.com/sdevkota/shadow-agent-radar.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/shadow-agent-radar/issues"
+    "url": "https://github.com/sdevkota/shadow-agent-radar/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/shadow-agent-radar/"
+  "homepage": "https://sdevkota.github.io/shadow-agent-radar/"
 }
