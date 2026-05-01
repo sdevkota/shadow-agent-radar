@@ -1,0 +1,30 @@
+{
+  "name": "@open-ai-civic/shadow-agent-radar",
+  "version": "1.0.0",
+  "description": "Discover and govern unsanctioned AI agent usage without blocking useful work. Shadow AI has become shadow IT with memory, tools, and data retention. Bans rarely work, while unmanaged agents can leak sensitive data or act with unclear authority.",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "shadow-agent-radar": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "open-source",
+    "governance",
+    "safety",
+    "shadow-agent-radar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/shadow-agent-radar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/shadow-agent-radar/issues"
+  },
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/shadow-agent-radar/"
+}
